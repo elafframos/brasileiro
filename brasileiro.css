@@ -1,27 +1,25 @@
-    <style>
-        body {
-            background: yellow;
-            color: green;
-            font: normal 27pt arial;
-            border: none;
-            padding: 1rem; 
-            position: absolute;
-            right: 28vw;
-            top: 30vh;
+body {
+    background: yellow;
+    color: green;
+    font: normal 27pt arial;
+    border: none;
+    padding: 1rem; 
+    position: absolute;
+    right: 28vw;
+    top: 30vh;
 
-        }
-        div#con {
-            border: none;
-            padding: 1rem; 
-            position: absolute;
-            right: 25vw;
-            top: 40vh;
-        }
-        div#txtr {
-            border: none;
-            padding: 1rem; 
-            position: absolute;
-            right: 40vw;
-            top: 30vh;
-        }
-    </style>
+    }
+div#con {
+    border: none;
+    padding: 1rem; 
+    position: absolute;
+    right: 25vw;
+    top: 40vh;
+    }
+div#txtr {
+    border: none;
+    padding: 1rem; 
+    position: absolute;
+    right: 40vw;
+    top: 30vh;
+}
